@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_Add Member - Uninput Firstname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17fa4b86-f6c4-47a7-aab7-811e063d4534</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005_Add Member - Uninput Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c396a23-4f2c-4200-ae49-f6e767cee0e5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC019_Sort Course by lowest rating</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>786d240e-1b34-4015-8fd6-54a2506ff2b9</testCaseGuid>
+</TestCaseEntity>
